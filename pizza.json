@@ -106,39 +106,39 @@
         {
             "images" :
             [
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q1.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q2.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q3.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q4.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q5.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q6.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q7.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q8.jpg" },
-                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q9.jpg" }
+                { "image" : "https://i.ibb.co/N6b8Wwj/image.png" },
+                { "image" : "https://i.ibb.co/hHSjhr8/image.png" },
+                { "image" : "https://i.ibb.co/4gSwM7M/image.png" },
+                { "image" : "https://i.ibb.co/s3wfyC8/image.png" },
+                { "image" : "https://i.ibb.co/02PHwtz/image.png" },
+                { "image" : "https://i.ibb.co/YkRrvQP/image.png" },
+                { "image" : "https://i.ibb.co/DGV4VdM/image.png" },
+                { "image" : "https://i.ibb.co/3MnTgHX/image.png" },
+                { "image" : "https://i.ibb.co/P5SRBvT/image.png" }
             ],
             "answers" :
             [
-                { "answer" : "Royale High" },
-                { "answer" : "Adopt Me" },
-                { "answer" : "Meep City" },
-                { "answer" : "Work At A Pizza Place" },
-                { "answer" : "Piggy" },
-                { "answer" : "Banana Eats" },
-                { "answer" : "Anime Fighting Simulator" },
-                { "answer" : "Brookhaven" },
-                { "answer" : "JailBreak" }
+                { "answer" : "Neapolitan pizza" },
+                { "answer" : "Chicago Pizza" },
+                { "answer" : "New York pizza" },
+                { "answer" : "Sicilian pizza" },
+                { "answer" : "Greek pizza" },
+                { "answer" : "california pizza" },
+                { "answer" : "Detroit Pizza" },
+                { "answer" : "St. Louis Pizza" },
+                { "answer" : "Bagel Pizza" }
             ],
             "options" :
             [
-                { "option" : "Adopt Me" }, { "option" : "Robloxia High" }, { "option" : "Royale High" }, { "option" : "Meep City" },
-                { "option" : "Royale High " }, { "option" : "Adopt Me" }, { "option" : "Adopt And Raise" }, { "option" : "Pet Escape" },
-                { "option" : "Greenville" }, { "option" : "Adopt Me" }, { "option" : "Meep City" }, { "option" : "Work At A pizza Place" },
-                { "option" : "Luigi’s Coffee" }, { "option" : "Work At A Pizza Place" }, { "option" : "Pizza Simulator " }, { "option" : "Meep City" },
-                { "option" : "Pig Simulator" }, { "option" : "Piggy" }, { "option" : "Pepper Pig Game" }, { "option" : "Piggy Tycoon" },
-                { "option" : "Banana Simulator" }, { "option" : "Banana Eats" }, { "option" : "Scary Banana" }, { "option" : "Run Away From Banana" },
-                { "option" : "Anime Fighting Simulator" }, { "option" : "Sword Fighting" }, { "option" : "Bed Wars" }, { "option" : "Pilfering Pirates" },
-                { "option" : "Adopt Me" }, { "option" : "Greenville" }, { "option" : "Brookhaven" }, { "option" : "Robloxia High School" },
-                { "option" : "Police And Criminal Simulator" }, { "option" : "Da Hood" }, { "option" : "Murder Mystery" }, { "option" : "JailBreak" }
+                 { "option" : "Margherita" }, { "option" : "Pepperoni" }, { "option" : "Hawaiian" }, { "option" : "Mushroom" },
+    { "option" : "Meat Lovers" }, { "option" : "Veggie" }, { "option" : "Cheese" }, { "option" : "Supreme" },
+    { "option" : "BBQ Chicken" }, { "option" : "Buffalo Chicken" }, { "option" : "White" }, { "option" : "Pesto" },
+    { "option" : "Sausage" }, { "option" : "Spinach" }, { "option" : "Artichoke" }, { "option" : "Tomato" },
+    { "option" : "Chicken Alfredo" }, { "option" : "Seafood" }, { "option" : "Greek" }, { "option" : "Taco" },
+    { "option" : "Bacon" }, { "option" : "Garlic" }, { "option" : "Truffle" }, { "option" : "Four Cheese" },
+    { "option" : "Meatball" }, { "option" : "Pulled Pork" }, { "option" : "Barbecue" }, { "option" : "Sicilian" },
+    { "option" : "Neapolitan" }, { "option" : "Chicago-style" }, { "option" : "New York-style" }, { "option" : "Detroit-style" },
+    { "option" : "Stuffed" }, { "option" : "Calzone" }, { "option" : "Flatbread" }, { "option" : "Bruschetta" }
              ]
         }
     ],
