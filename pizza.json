@@ -43,70 +43,65 @@
         {
             "questions" :
             [
-        {"question": "What was the name of the first person to walk on the moon?"},
-        {"question": "What is the name of the longest-serving Mars rover, launched by NASA in 2003?"},
-        {"question": "What is the name of the first artificial satellite launched into space by the Soviet Union in 1957?"},
-        {"question": "What was the name of the first American woman in space?"},
-        {"question": "What is the name of the space telescope launched by NASA in 1990?"},
-        {"question": "What is the name of the first privately-funded spacecraft to reach orbit?"},
-        {"question": "What is the name of the first spacecraft to visit Pluto, launched by NASA in 2006?"},
-        {"question": "What is the name of the rocket that sent the first American into space in 1961?"},
-        {"question": "What is the name of the first space station launched into orbit by the Soviet Union in 1971?"},
-        {"question": "What is the name of the first space shuttle launched by NASA in 1981?"}
+        {"question": "In which country did pizza originate?"},
+        {"question": "What is the name of the famous pizza chain that started in Michigan in 1959?"},
+        {"question": "What type of cheese is typically used on a Margherita pizza?"},
+        {"question": "What is the name of the tool used to transfer pizzas in and out of an oven?"},
+        {"question": "What is the most popular pizza topping in the United States?"},
+        {"question": "What type of pizza is made with tomato sauce, mozzarella cheese, and pepperoni?"},
+        {"question": "What is the name of the folded pizza commonly eaten in Naples, Italy?"},
+        {"question": "What is the Italian word for pizza with a very thin crust?"},
+        {"question": "What is the name of the round, flat bread that is the base of a pizza?"},
+        {"question": "What is the term used for the crust of a pizza that is crispy and browned?"}
       ],
-            "answers" :
-            [
-        {"answer": "Neil Armstrong"},
-        {"answer": "Opportunity"},
-        {"answer": "Sputnik 1"},
-        {"answer": "Sally Ride"},
-        {"answer": "Hubble Space Telescope"},
-        {"answer": "Dragon"},
-        {"answer": "New Horizons"},
-        {"answer": "Mercury-Redstone 3"},
-        {"answer": "Salyut 1"},
-        {"answer": "Columbia"}
-       ],
-            "options" :
-            [
-        {"option": "Buzz Aldrin"},
-        {"option": "Neil Armstrong"},
-        {"option": "Alan Shepard"},
-        {"option": "Yuri Gagarin"},
-        {"option": "Curiosity"},
-        {"option": "Opportunity"},
-        {"option": "Spirit"},
-        {"option": "Sputnik 1"},
-        {"option": "Explorer 1"},
-        {"option": "Telstar 1"},
-        {"option": "Kathryn Sullivan"},
-        {"option": "Sally Ride"},
-        {"option": "Christa McAuliffe"},
-        {"option": "Valentina Tereshkova"},
-        {"option": "Hubble Space Telescope"},
-        {"option": "James Webb Space Telescope"},
-        {"option": "Kepler Space Telescope"},
-        {"option": "Challenger"},
-        {"option": "Dragon"},
-        {"option": "Falcon 9"},
-        {"option": "Atlas V"},
-        {"option": "New Horizons"},
-        {"option": "Voyager 1"},
-        {"option": "Pioneer 10"},
-        {"option": "Mercury-Redstone 3"},
-        {"option": "Atlas-Agena"},
-        {"option": "Saturn V"},
-        {"option": "Salyut 1"},
-        {"option": "Mir"},
-        {"option": "Skylab"},
-        {"option": "Enterprise"},
-        {"option": "Endeavour"},
-        {"option": "Discovery"},
-        {"option": "Atlantis"}
-      ]
+      "answers": 
+	  [
+        {"answer": "Italy"},
+        {"answer": "Little Caesars"},
+        {"answer": "mozzarella"},
+        {"answer": "pizza peel"},
+        {"answer": "pepperoni"},
+        {"answer": "Margherita"},
+        {"answer": "calzone"},
+        {"answer": "cracker"},
+        {"answer": "pizza dough"},
+        {"answer": "chewy"}
+      ],
+      "options": 
+	  [
+        {"option": "Italy"},
+        {"option": "Greece"},
+        {"option": "Spain"},
+        {"option": "Little Caesars"},
+        {"option": "Papa John's"},
+        {"option": "Domino's"},
+        {"option": "mozzarella"},
+        {"option": "cheddar"},
+        {"option": "feta"},
+        {"option": "pizza peel"},
+        {"option": "rolling pin"},
+        {"option": "tongs"},
+        {"option": "pepperoni"},
+        {"option": "sausage"},
+        {"option": "mushroom"},
+        {"option": "Margherita"},
+        {"option": "Hawaiian"},
+        {"option": "meat lovers"},
+        {"option": "calzone"},
+        {"option": "stromboli"},
+        {"option": "panzerotti"},
+        {"option": "cracker"},
+        {"option": "deep dish"},
+        {"option": "thin crust"},
+        {"option": "pizza dough"},
+        {"option": "pizza crust"},
+        {"option": "pizza base"},
+        {"option": "chewy"},
+        {"option": "crispy"},
+        {"option": "soft"}
+ ]
         }
-    ],
-
+   ],
     "quizimages" : [
         {
             "images" :
