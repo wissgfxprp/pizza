@@ -1,0 +1,390 @@
+{
+    "config" : [
+        {
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "204703142",
+
+            "int_interval" : 5,
+            "activate_ads" : "false",
+            "activate_steps" : "false",
+            "activate_step_email" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_source_key": "12c959ebd",
+            
+            "diamond": "https://i.ibb.co/C50Qfjd/r.png",
+            "cover": "https://i.ibb.co/FYDXKFN/cou-2.png",
+           
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+  "quizquestions" : [
+        {
+            "questions" :
+            [
+        {"question": "What was the name of the first person to walk on the moon?"},
+        {"question": "What is the name of the longest-serving Mars rover, launched by NASA in 2003?"},
+        {"question": "What is the name of the first artificial satellite launched into space by the Soviet Union in 1957?"},
+        {"question": "What was the name of the first American woman in space?"},
+        {"question": "What is the name of the space telescope launched by NASA in 1990?"},
+        {"question": "What is the name of the first privately-funded spacecraft to reach orbit?"},
+        {"question": "What is the name of the first spacecraft to visit Pluto, launched by NASA in 2006?"},
+        {"question": "What is the name of the rocket that sent the first American into space in 1961?"},
+        {"question": "What is the name of the first space station launched into orbit by the Soviet Union in 1971?"},
+        {"question": "What is the name of the first space shuttle launched by NASA in 1981?"}
+      ],
+            "answers" :
+            [
+        {"answer": "Neil Armstrong"},
+        {"answer": "Opportunity"},
+        {"answer": "Sputnik 1"},
+        {"answer": "Sally Ride"},
+        {"answer": "Hubble Space Telescope"},
+        {"answer": "Dragon"},
+        {"answer": "New Horizons"},
+        {"answer": "Mercury-Redstone 3"},
+        {"answer": "Salyut 1"},
+        {"answer": "Columbia"}
+       ],
+            "options" :
+            [
+        {"option": "Buzz Aldrin"},
+        {"option": "Neil Armstrong"},
+        {"option": "Alan Shepard"},
+        {"option": "Yuri Gagarin"},
+        {"option": "Curiosity"},
+        {"option": "Opportunity"},
+        {"option": "Spirit"},
+        {"option": "Sputnik 1"},
+        {"option": "Explorer 1"},
+        {"option": "Telstar 1"},
+        {"option": "Kathryn Sullivan"},
+        {"option": "Sally Ride"},
+        {"option": "Christa McAuliffe"},
+        {"option": "Valentina Tereshkova"},
+        {"option": "Hubble Space Telescope"},
+        {"option": "James Webb Space Telescope"},
+        {"option": "Kepler Space Telescope"},
+        {"option": "Challenger"},
+        {"option": "Dragon"},
+        {"option": "Falcon 9"},
+        {"option": "Atlas V"},
+        {"option": "New Horizons"},
+        {"option": "Voyager 1"},
+        {"option": "Pioneer 10"},
+        {"option": "Mercury-Redstone 3"},
+        {"option": "Atlas-Agena"},
+        {"option": "Saturn V"},
+        {"option": "Salyut 1"},
+        {"option": "Mir"},
+        {"option": "Skylab"},
+        {"option": "Enterprise"},
+        {"option": "Endeavour"},
+        {"option": "Discovery"},
+        {"option": "Atlantis"}
+      ]
+        }
+    ],
+
+    "quizimages" : [
+        {
+            "images" :
+            [
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q1.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q2.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q3.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q4.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q5.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q6.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q7.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q8.jpg" },
+                { "image" : "https://raw.githubusercontent.com/98734/dina/main/QZ/QZ/Q9.jpg" }
+            ],
+            "answers" :
+            [
+                { "answer" : "Royale High" },
+                { "answer" : "Adopt Me" },
+                { "answer" : "Meep City" },
+                { "answer" : "Work At A Pizza Place" },
+                { "answer" : "Piggy" },
+                { "answer" : "Banana Eats" },
+                { "answer" : "Anime Fighting Simulator" },
+                { "answer" : "Brookhaven" },
+                { "answer" : "JailBreak" }
+            ],
+            "options" :
+            [
+                { "option" : "Adopt Me" }, { "option" : "Robloxia High" }, { "option" : "Royale High" }, { "option" : "Meep City" },
+                { "option" : "Royale High " }, { "option" : "Adopt Me" }, { "option" : "Adopt And Raise" }, { "option" : "Pet Escape" },
+                { "option" : "Greenville" }, { "option" : "Adopt Me" }, { "option" : "Meep City" }, { "option" : "Work At A pizza Place" },
+                { "option" : "Luigi’s Coffee" }, { "option" : "Work At A Pizza Place" }, { "option" : "Pizza Simulator " }, { "option" : "Meep City" },
+                { "option" : "Pig Simulator" }, { "option" : "Piggy" }, { "option" : "Pepper Pig Game" }, { "option" : "Piggy Tycoon" },
+                { "option" : "Banana Simulator" }, { "option" : "Banana Eats" }, { "option" : "Scary Banana" }, { "option" : "Run Away From Banana" },
+                { "option" : "Anime Fighting Simulator" }, { "option" : "Sword Fighting" }, { "option" : "Bed Wars" }, { "option" : "Pilfering Pirates" },
+                { "option" : "Adopt Me" }, { "option" : "Greenville" }, { "option" : "Brookhaven" }, { "option" : "Robloxia High School" },
+                { "option" : "Police And Criminal Simulator" }, { "option" : "Da Hood" }, { "option" : "Murder Mystery" }, { "option" : "JailBreak" }
+             ]
+        }
+    ],
+    "menu" : [
+        {
+            "active" : "false",
+            "name" : "Guide Tips",
+            "ico" : "https://i.ibb.co/GQYxJ6M/tips.gif",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://i.ibb.co/vxxVY71/ezgif-1-bab27e02bf-unscreen.gif",
+            "bg" : "#ffffff"
+        },{
+            "active" : "false",
+            "name" : "spinner",
+            "ico" : "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
+            "bg" : "#ffffff"
+        },{
+            "active" : "false",
+            "name" : "scratch",
+            "ico" : "https://i.ibb.co/gVmGsn9/scractch.gif",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://i.ibb.co/YWJctyj/Untitled-design-unscreen.gif",
+            "bg" : "#ffffff"
+        },{
+            "active" : "false",
+            "name" : "quiz",
+            "ico" : "https://i.ibb.co/r33QywR/Untitled-design-unscreen.gif",
+            "bg" : "#ffffff"
+        },{
+            "active" : "false",
+            "name" : "wallpapers",
+            "ico" : "https://i.ibb.co/0sSwcW1/waal-unscreen.gif",
+            "bg" : ""
+        },{
+            "active" : "false",
+            "name" : "more",
+            "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
+            "bg" : ""
+        },{
+            "active" : "false",
+            "name" : "games",
+            "ico" : "https://i.ibb.co/mJYnghj/Untitled-design-unscreen.gif",
+            "bg" : "#ffffff"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Zoopolis: Animal Evolution",
+            "ico" : "https://play-lh.googleusercontent.com/qi9Q5yIgYuSFYOLaRvkrzEWUdIPUoGKZcidP9kP4IRCbLWs7f2vVaMs5_YBWMh5URkU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.azurinteractive.animalsevolution"
+        },{
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        }
+
+    ],
+    
+    "games" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://i.ibb.co/KNgwg4M/rsz-icon.png",
+            "link" : "https://skribbl.io/",
+            "cat" : "Overall",
+            "orientation" : "1"
+       
+    
+        }
+
+    ],
+    
+    "scratch" : [
+        {
+            "img" : "https://raw.githubusercontent.com/98734/dina/main/sc/roblox-roblox-dance.gif"
+        },{
+            "img" : "https://raw.githubusercontent.com/98734/dina/main/sc/dance-moves.gif"
+        },{
+            "img" : "https://raw.githubusercontent.com/98734/dina/main/sc/sc/gif1.gif"
+        },{
+            "img" : "https://raw.githubusercontent.com/98734/dina/main/sc/sc/gif2.gif"
+        },{
+            "img" : "https://raw.githubusercontent.com/98734/dina/main/sc/sc/gif3.gif"
+        }
+    ],
+
+    "wallpapers" : [
+{
+"name" : "",
+"img" : "https://i.ibb.co/JxkJ6cj/pexels-mikhail-nilov-7662949.jpg"
+},
+{
+"name" : "",
+"img" : "https://i.ibb.co/1bYt4sh/pexels-cottonbro-studio-7170721.jpg"
+},
+{
+"name" : "",
+"img" : "https://i.ibb.co/ZGWjpbv/pexels-cottonbro-studio-7169862.jpg"
+},
+{
+"name" : "",
+"img" : "https://i.ibb.co/tzWVjdY/pexels-cottonbro-studio-7169836.jpg"
+},
+{
+"name" : "",
+"img" : "https://i.ibb.co/25RPq0g/kxchcxh.jpg"
+},
+{
+"name" : "",
+"img" : "https://i.ibb.co/5hQSHnL/pexels-t-leish-5258150.jpg"
+},
+{
+"name" : "",
+"img" : "https://i.ibb.co/9pH406r/pexels-pixabay-41952.jpg"
+},
+{
+"name" : "",
+"img" : "https://i.ibb.co/89qZL6t/pexels-mikhail-nilov-7672278.jpg"
+},
+{
+"name" : "",
+"img" : "https://i.ibb.co/ScxJR88/pexels-mikhail-nilov-7661456.jpg"
+},
+{
+"name" : "",
+"img" : "https://i.ibb.co/tzjxsHN/pexels-t-leish-5258138.jpg"
+}
+],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Lizzy Winkle",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c1.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D1.jpeg",
+            "part1" : "Royale High",
+            "part2" : "Royale High is a school-themed roleplay/hangout and dress-up Roblox game owned by callmehbob. It was originally titled Fairies and Mermaids Winx High School, and intended as a Winx Club fan roleplay game."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Work At A Pizza Place",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c2.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D2.jpg",
+            "part1" : "Manager",
+            "part2" : "It involves players role-playing as different types of workers doing real-world jobs to earn cash, which can be spent on upgrading and decorating their house, buying gears and ordering food items as a customer themselves.\n\n            "
+        },
+        
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Pink Cat Pet",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C3p.png",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D3.jpeg",
+            "part1" : "Adopt Me",
+            "part2" : "Adopt Me is an individual game within Roblox's collection. Adopt Me centres around designing a home, within which players will care for pets and befriend other users."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Thief Criminal",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C4.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D4.jpg",
+            "part1" : "JailBreak",
+            "part2" : "Jailbreak follows a cops and robbers playing style: criminals perform robberies after escaping the Prison, while police are given the task of stopping crime and arresting criminals."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Horror Banana",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/c5.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D5.jpeg",
+            "part1" : "Banana Eats",
+            "part2" : "Banana Eats is a Roblox horror puzzle game developed by RyCitrus.The main objective of the game is to hide and survive from the Banana. The Banana's objective is to eat all the players."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Devilz Vs.Dangerous",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C6.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D6.png",
+            "part1" : "Da Hood",
+            "part2" : "The game takes place in a gang subculture environment, were players can become an Officer or become a Criminal to become a part of a Gang. The game has mainly been criticized due to its toxic environment from its player base."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Lava Bricks",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C7.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D7.png",
+            "part1" : "Infectious Smile",
+            "part2" : "Infectious Smile is a Roblox horror game created by Laughablehaha in which players try to stop an infection that causes players to become hostile while also forcing them to wear the Winning Smile face."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Azure Dragon Knife",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C8.png",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D8.jpeg",
+            "part1" : "KAT",
+            "part2" : "Knife ability test is a player-vs-player deathmatch game developed by Fierzaa. Its objective is to kill targets and other players for rubies. It utilizes elements including knives, guns, and map styles. It has added in Trading Powers\n"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Volcanic Disaster",
+            "img1" : "https://raw.githubusercontent.com/98734/dina/main/Data/Ch/C9.jpg",
+            "img2" : "https://raw.githubusercontent.com/98734/dina/main/Data/D9.jpeg",
+            "part1" : "How do you survive a natural disaster survival on Roblox?",
+            "part2" : "Stay on stable structures just high enough to avoid the flood. Do not climb too high or else the player might fall and die. If the structure falls, jump and try to stay on top of a brick above water."
+           }
+     
+        
+        
+       
+    ]
+}
